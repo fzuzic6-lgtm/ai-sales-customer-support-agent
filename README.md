@@ -3,6 +3,9 @@
 An AI-powered sales and customer support agent built with n8n, Claude, and Google Sheets.
 
 The agent can answer customer questions about products, search a product database, check prices and stock availability, and automatically collect potential customer leads.
+## Workflow Overview
+
+![AI Sales & Customer Support Agent Workflow](Snimka%20zaslona%202026-09-18%20141457.png)
 
 ## Features
 
